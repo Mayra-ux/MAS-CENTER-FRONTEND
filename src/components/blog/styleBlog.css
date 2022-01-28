@@ -1,0 +1,12 @@
+select .sel-def{
+    color: whitesmoke;
+    font-size: large;
+}
+
+select .selectTransparent{
+    background: transparent;
+}
+
+select option .selectOption{
+    background-color: orange;
+}

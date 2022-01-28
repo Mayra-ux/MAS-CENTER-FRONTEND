@@ -1,0 +1,8 @@
+
+.usuarios-table{
+    background-color: #722222;
+}
+.campo1 { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: #000 !important;
+        opacity: 1; /* Firefox */
+    }
